@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Главная",
+    "menu": "Меню",
+    "cart": "Корзина",
+    "contact": "Контакты",
+    "about": "О нас",
+    "virtual": "Виртуальная",
+    "admin": "Админ",
+    "login": "Войти",
+    "logout": "Выйти"
+  },
+  "home": {
+    "title": "Milano",
+    "subtitle": "CAFE",
+    "welcome": "Добро пожаловать в Milano Cafe",
+    "description": "Самая вкусная еда и отличный сервис",
+    "orderNow": "Заказать сейчас",
+    "viewMenu": "Посмотреть меню"
+  },
+  "menu": {
+    "title": "Наше меню",
+    "addToCart": "В корзину",
+    "price": "Цена",
+    "recipe": "Рецепт"
+  },
+  "cart": {
+    "title": "Корзина",
+    "empty": "Корзина пуста",
+    "total": "Итого",
+    "order": "Оформить заказ",
+    "location": "Выберите местоположение",
+    "sendOrder": "Отправить заказ"
+  },
+  "contact": {
+    "title": "Контакты",
+    "name": "Имя",
+    "email": "Email",
+    "message": "Сообщение",
+    "send": "Отправить"
+  },
+  "about": {
+    "title": "О нас",
+    "description": "Milano Cafe - это современный ресторан, который предоставляет самую качественную еду и профессиональный сервис.",
+    "phone": "Телефон",
+    "address": "Адрес",
+    "instagram": "Instagram",
+    "telegram": "Telegram"
+  },
+  "virtual": {
+    "title": "Виртуальная среда",
+    "description": "Исследуйте наш ресторан в виртуальной среде"
+  },
+  "admin": {
+    "title": "Админ панель",
+    "orders": "Заказы",
+    "users": "Пользователи",
+    "addItem": "Добавить блюдо",
+    "confirm": "Подтвердить",
+    "completed": "Выполнено"
+  },
+  "auth": {
+    "login": "Войти",
+    "register": "Регистрация",
+    "email": "Email",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль"
+  },
+  "notifications": {
+    "addedToCart": "Добавлено в корзину!",
+    "orderSent": "Заказ отправлен!",
+    "orderConfirmed": "Заказ подтвержден!",
+    "loginSuccess": "Успешно вошли!",
+    "registerSuccess": "Успешно зарегистрированы!"
+  }
+}

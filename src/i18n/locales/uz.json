@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "menu": "Menyu",
+    "cart": "Savat",
+    "contact": "Aloqa",
+    "about": "Biz haqimizda",
+    "virtual": "Virtual",
+    "admin": "Admin",
+    "login": "Kirish",
+    "logout": "Chiqish"
+  },
+  "home": {
+    "title": "Milano",
+    "subtitle": "CAFE",
+    "welcome": "Milano Cafe'ga xush kelibsiz",
+    "description": "Eng mazali taomlar va ajoyib xizmat",
+    "orderNow": "Buyurtma berish",
+    "viewMenu": "Menyuni ko'rish"
+  },
+  "menu": {
+    "title": "Bizning menyumiz",
+    "addToCart": "Savatga qo'shish",
+    "price": "Narx",
+    "recipe": "Retsept"
+  },
+  "cart": {
+    "title": "Savat",
+    "empty": "Savat bo'sh",
+    "total": "Jami",
+    "order": "Buyurtma berish",
+    "location": "Joylashuvni tanlang",
+    "sendOrder": "Buyurtmani yuborish"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "name": "Ism",
+    "email": "Email",
+    "message": "Xabar",
+    "send": "Yuborish"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "description": "Milano Cafe - bu zamonaviy restoran bo'lib, eng sifatli taomlar va professional xizmat ko'rsatadi.",
+    "phone": "Telefon",
+    "address": "Manzil",
+    "instagram": "Instagram",
+    "telegram": "Telegram"
+  },
+  "virtual": {
+    "title": "Virtual muhit",
+    "description": "Bizning restoranmizni virtual muhitda ko'ring"
+  },
+  "admin": {
+    "title": "Admin panel",
+    "orders": "Buyurtmalar",
+    "users": "Foydalanuvchilar",
+    "addItem": "Taom qo'shish",
+    "confirm": "Tasdiqlash",
+    "completed": "Bajarilgan"
+  },
+  "auth": {
+    "login": "Kirish",
+    "register": "Ro'yxatdan o'tish",
+    "email": "Email",
+    "password": "Parol",
+    "confirmPassword": "Parolni tasdiqlang"
+  },
+  "notifications": {
+    "addedToCart": "Savatga qo'shildi!",
+    "orderSent": "Buyurtma yuborildi!",
+    "orderConfirmed": "Buyurtma tasdiqlandi!",
+    "loginSuccess": "Muvaffaqiyatli kirildi!",
+    "registerSuccess": "Ro'yxatdan o'tildi!"
+  }
+}

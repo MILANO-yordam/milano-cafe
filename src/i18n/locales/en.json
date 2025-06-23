@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "cart": "Cart",
+    "contact": "Contact",
+    "about": "About Us",
+    "virtual": "Virtual",
+    "admin": "Admin",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "Milano",
+    "subtitle": "CAFE",
+    "welcome": "Welcome to Milano Cafe",
+    "description": "The most delicious food and excellent service",
+    "orderNow": "Order Now",
+    "viewMenu": "View Menu"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "addToCart": "Add to Cart",
+    "price": "Price",
+    "recipe": "Recipe"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Cart is empty",
+    "total": "Total",
+    "order": "Place Order",
+    "location": "Select Location",
+    "sendOrder": "Send Order"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Milano Cafe is a modern restaurant that provides the highest quality food and professional service.",
+    "phone": "Phone",
+    "address": "Address",
+    "instagram": "Instagram",
+    "telegram": "Telegram"
+  },
+  "virtual": {
+    "title": "Virtual Environment",
+    "description": "Explore our restaurant in virtual environment"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "orders": "Orders",
+    "users": "Users",
+    "addItem": "Add Item",
+    "confirm": "Confirm",
+    "completed": "Completed"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "notifications": {
+    "addedToCart": "Added to cart!",
+    "orderSent": "Order sent!",
+    "orderConfirmed": "Order confirmed!",
+    "loginSuccess": "Successfully logged in!",
+    "registerSuccess": "Successfully registered!"
+  }
+}
